@@ -1,4 +1,4 @@
-# Hello! I'm Dralla\[::-1](s)
+# Hello! I'm dralla\[::-1](s)
 
 > A FOSS enthusiast!
 ---

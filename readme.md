@@ -1,4 +1,5 @@
-# Hello! I'm dralla\[::-1] s
+# Hello! I'm Drallas
+<!-- print("dralla"[::-1]+"s").capitalize() -->
 
 > A FOSS enthusiast!
 ---

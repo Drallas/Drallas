@@ -1,6 +1,6 @@
-# Hello! I'm Allard(s)
+# Hello! I'm Dralla\[::-1](s)
 
-> FOSS enthusiast!
+> A FOSS enthusiast!
 ---
 🧠 **Busy With**
 * CS50's - Introduction to Computer Science.

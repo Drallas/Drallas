@@ -1,5 +1,16 @@
-# Welcome to my GitHub Profile
+# Hello! I'm Allard(s)
 
+> 🐧 Open Source Enthusiast!
+
+🧠 **Busy With**
+* CS50's - Introduction to Computer Science.
+* 100 Days Of Code Python.
+* Solving random GitHub Issues.
+
+<!-- ## Planning
+* CS50's - Web Programming with Python and JavaScript. -->
+
+👨🏻‍💻 **Weekly coding breakdown**
 <!--START_SECTION:waka-->
 ```text
 Week: 26 January, 2021 - 02 February, 2021

@@ -1,6 +1,6 @@
 # Hello! I'm Allard(s)
 
-> 🐧 Open Source Enthusiast!
+> FOSS enthusiast!
 ---
 🧠 **Busy With**
 * CS50's - Introduction to Computer Science.

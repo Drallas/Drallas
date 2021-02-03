@@ -10,7 +10,7 @@
 <!-- ## Planning
 * CS50's - Web Programming with Python and JavaScript. -->
 
-👨🏻‍💻 **Weekly coding breakdown**
+👨🏻‍💻 **Coding Stats**
 <!--START_SECTION:waka-->
 ```text
 Week: 26 January, 2021 - 02 February, 2021

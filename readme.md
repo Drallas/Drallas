@@ -1,5 +1,5 @@
 # Hello! I'm Drallas
-<!-- print("dralla"[::-1]+"s").capitalize() -->
+<!-- print(("dralla"[::-1]+"s").capitalize()) -->
 
 > A FOSS enthusiast!
 ---

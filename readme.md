@@ -4,9 +4,9 @@
 > A FOSS enthusiast!
 ---
 🧠 **Busy With**
-* CS50's - Introduction to Computer Science.
-* 100 Days Of Code Python.
-* Solving random GitHub Issues.
+* Studying Full Stack Web Development.
+* Solving GitHub issues to practice skills.
+* Building a Portfolio.
 
 <!-- ## Planning
 * CS50's - Web Programming with Python and JavaScript. -->

@@ -1,7 +1,7 @@
 # Welcome on my profile page!
 <!-- print(("dralla"[::-1]+"s").capitalize()) -->
 
-> I'm currently learning modern Web-Development technolgies!
+> I'm currently learning modern Web-Development technologies!
 ---
 👨🏻‍💻 **Busy With**
 * Building small Projects.

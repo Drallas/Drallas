@@ -1,11 +1,11 @@
-# Hello! I'm A
+# Welcome on my profile page!
 <!-- print(("dralla"[::-1]+"s").capitalize()) -->
 
-> FOSS enthusiast currently learning modern Web-Development!
+> I'm currently learning modern Web-Development technolgies!
 ---
 👨🏻‍💻 **Busy With**
 * Building small Projects.
-* Solving GitHub issues to practice skills.
+* GitHub issues to practice skills.
 * Building a Portfolio.
 
 ---

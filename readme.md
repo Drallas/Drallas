@@ -1,15 +1,13 @@
-# Hello! I'm Drallas
+# Hello! I'm A
 <!-- print(("dralla"[::-1]+"s").capitalize()) -->
 
-> A FOSS enthusiast!
+> FOSS enthusiast currently learning modern Web-Development!
 ---
 👨🏻‍💻 **Busy With**
-* Studying Full Stack Web Development.
+* Building small Projects.
 * Solving GitHub issues to practice skills.
 * Building a Portfolio.
 
-<!-- ## Planning
-* CS50's - Web Programming with Python and JavaScript. -->
 ---
 📊 **Coding Stats**
 <!--START_SECTION:waka-->

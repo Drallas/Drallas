@@ -11,10 +11,7 @@
 📊 **Coding Stats**
 <!--START_SECTION:waka-->
 ```text
-Week: 13 April, 2021 - 20 April, 2021
-
-JavaScript   1 hr            ██████████████████████▓░░   91.12 % 
-JSON         5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 

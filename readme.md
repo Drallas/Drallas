@@ -11,7 +11,9 @@
 📊 **Coding Stats**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 16 April, 2021 - 23 April, 2021
+
+
 ```
 <!--END_SECTION:waka-->
 

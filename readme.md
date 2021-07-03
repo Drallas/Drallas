@@ -11,7 +11,9 @@
 📊 **Coding Stats**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 26 June, 2021 - 02 July, 2021
+
+Python   1 min           ██████████████████████░░░   87.56 % 
 ```
 <!--END_SECTION:waka-->
 ---

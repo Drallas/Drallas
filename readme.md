@@ -11,9 +11,7 @@
 📊 **Coding Stats**
 <!--START_SECTION:waka-->
 ```text
-Week: 01 August, 2021 - 07 August, 2021
-
-C   3 hrs 5 mins    █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 ---

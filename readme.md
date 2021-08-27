@@ -11,10 +11,7 @@
 📊 **Coding Stats**
 <!--START_SECTION:waka-->
 ```text
-Week: 19 August, 2021 - 25 August, 2021
-
-Markdown   22 mins         ███████████████████████▓░   94.50 % 
-Other      1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 ---

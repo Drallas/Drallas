@@ -11,7 +11,10 @@
 📊 **Coding Stats**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 25 September, 2021 - 01 October, 2021
+
+YAML    1 hr 39 mins    ████████████████████░░░░░   80.53 % 
+Other   24 mins         █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
 ```
 <!--END_SECTION:waka-->
 ---

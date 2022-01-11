@@ -3,9 +3,8 @@
 
 ---
 👨🏻‍💻 **Busy With**
+* Learning new Skills.
 * Building small Projects.
-* GitHub issues to practice skills.
-* Building a Portfolio.
 
 ---
 📊 **Coding Stats**

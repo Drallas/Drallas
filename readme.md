@@ -11,9 +11,7 @@
 📊 **Coding Stats**
 <!--START_SECTION:waka-->
 ```text
-Week: 11 February, 2022 - 17 February, 2022
-
-Total: 10 hrs 39 mins
+Week: 12 February, 2022 - 18 February, 2022
 
 Terraform   8 hrs 14 mins   █████████████████▓░░░░░░░   70.62 % 
 Markdown    1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 % 

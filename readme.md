@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 February 2022 - To: 27 February 2022
+From: 21 February 2022 - To: 28 February 2022
 
-Terraform    4 hrs 42 mins   ████████████▓░░░░░░░░░░░░   50.21 %
-Bash         1 hr 59 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.29 %
-Markdown     1 hr 18 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
-Other        48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
+Terraform    3 hrs 3 mins    ██████████▓░░░░░░░░░░░░░░   42.71 %
+Bash         1 hr 59 mins    ███████░░░░░░░░░░░░░░░░░░   27.87 %
+Markdown     1 hr 18 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.25 %
+Other        45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
 ```
 
 <!--END_SECTION:waka-->

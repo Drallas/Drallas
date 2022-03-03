@@ -12,11 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 February 2022 - To: 01 March 2022
+From: 23 February 2022 - To: 02 March 2022
 
-Bash        1 hr 18 mins    █████████████████░░░░░░░░   68.64 %
-Markdown    24 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.39 %
-Other       8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+PowerShell   29 mins         █████████████████████░░░░   83.82 %
+JSON         5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+PostScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 
 <!--END_SECTION:waka-->

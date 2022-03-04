@@ -12,10 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 February 2022 - To: 02 March 2022
+From: 24 February 2022 - To: 03 March 2022
 
-PowerShell   29 mins         █████████████████████░░░░   83.82 %
-JSON         5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.02 %
+PowerShell   29 mins         █████████████████████░░░░   83.57 %
+JSON         5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
 PostScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 ```
 

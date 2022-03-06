@@ -12,12 +12,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 February 2022 - To: 04 March 2022
+From: 26 February 2022 - To: 05 March 2022
 
-PowerShell   29 mins         █████████████████████░░░░   83.57 %
-JSON         5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
-PostScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+PowerShell   29 mins         ████████████░░░░░░░░░░░░░   47.93 %
+Markdown     11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.18 %
+JSON         11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.78 %
+Git Config   8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
+PostScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->

@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2022 - To: 07 March 2022
+From: 01 March 2022 - To: 08 March 2022
 
 PowerShell   29 mins         ████████████░░░░░░░░░░░░░   47.93 %
 Markdown     11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.18 %

@@ -12,12 +12,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 March 2022 - To: 09 March 2022
+From: 03 March 2022 - To: 10 March 2022
 
-Markdown     1 hr 35 mins    █████████████████░░░░░░░░   67.84 %
-JSON         36 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.79 %
-Git Config   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Markdown     1 hr 58 mins    ████████████▒░░░░░░░░░░░░   48.70 %
+JSON         1 hr 6 mins     ██████▓░░░░░░░░░░░░░░░░░░   27.10 %
+Terraform    38 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
+Git Config   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Docker       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->

@@ -12,14 +12,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 March 2022 - To: 13 March 2022
+From: 07 March 2022 - To: 14 March 2022
 
-JSON         3 hrs 52 mins   █████████████▒░░░░░░░░░░░   52.91 %
-Markdown     1 hr 49 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.05 %
-Terraform    40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
-PowerShell   33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-Bicep        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Docker       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+JSON         4 hrs 15 mins   ██████████░░░░░░░░░░░░░░░   39.61 %
+Markdown     3 hrs 34 mins   ████████▒░░░░░░░░░░░░░░░░   33.32 %
+Python       59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.26 %
+Terraform    40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+PowerShell   33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Other        19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 ```
 
 <!--END_SECTION:waka-->

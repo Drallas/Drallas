@@ -12,14 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 March 2022 - To: 22 March 2022
+From: 16 March 2022 - To: 23 March 2022
 
-Python      6 hrs 38 mins   ██████████████▒░░░░░░░░░░   57.29 %
-Markdown    1 hr 36 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
-Bash        1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
-Terraform   1 hr 5 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
-Text        27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-JSON        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Python      4 hrs 21 mins   ████████████████▒░░░░░░░░   65.62 %
+Terraform   1 hr 5 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
+Markdown    26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+Other       22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
 ```
 
 <!--END_SECTION:waka-->

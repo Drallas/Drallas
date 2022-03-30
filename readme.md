@@ -12,10 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 March 2022 - To: 28 March 2022
+From: 22 March 2022 - To: 29 March 2022
 
-Python     4 hrs 23 mins   █████████████▓░░░░░░░░░░░   54.32 %
-Other      1 hr 12 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
+Python       6 hrs 13 mins   █████████████▒░░░░░░░░░░░   53.38 %
+Markdown     1 hr 31 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
+Other        1 hr 12 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
 ```
 
 <!--END_SECTION:waka-->

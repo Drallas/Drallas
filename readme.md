@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 March 2022 - To: 01 April 2022
+From: 26 March 2022 - To: 02 April 2022
 
 Python       15 hrs 56 mins  ██████████████████▓░░░░░░   75.33 %
 Markdown     2 hrs 4 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %

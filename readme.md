@@ -12,10 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 April 2022 - To: 24 April 2022
+From: 18 April 2022 - To: 25 April 2022
 
-YAML         13 hrs 53 mins  █████████████████████░░░░   84.25 %
-Other        45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+YAML         13 hrs 12 mins  ██████████████████████░░░   88.06 %
+Bash         39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Docker       31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+Other        19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
 ```
 
 <!--END_SECTION:waka-->

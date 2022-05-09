@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 April 2022 - To: 07 May 2022
+From: 01 May 2022 - To: 08 May 2022
 
 Bicep       3 hrs 6 mins    ████████▒░░░░░░░░░░░░░░░░   33.80 %
 YAML        2 hrs 25 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.32 %

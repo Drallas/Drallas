@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 May 2022 - To: 09 May 2022
+From: 03 May 2022 - To: 10 May 2022
 
-Bicep       4 hrs 39 mins   ███████████▓░░░░░░░░░░░░░   46.83 %
-Terraform   2 hrs 2 mins    █████░░░░░░░░░░░░░░░░░░░░   20.56 %
-YAML        1 hr 39 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
-Other       48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
+Bicep       4 hrs 39 mins   ████████████░░░░░░░░░░░░░   47.35 %
+Terraform   2 hrs 2 mins    █████▒░░░░░░░░░░░░░░░░░░░   20.79 %
+YAML        1 hr 39 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
+Other       26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
 ```
 
 <!--END_SECTION:waka-->

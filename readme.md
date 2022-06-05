@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 May 2022 - To: 03 June 2022
+From: 28 May 2022 - To: 04 June 2022
 
 Python       3 hrs 41 mins   █████████▒░░░░░░░░░░░░░░░   37.81 %
 JSON         2 hrs 40 mins   ███████░░░░░░░░░░░░░░░░░░   27.40 %

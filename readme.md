@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 June 2022 - To: 10 June 2022
+From: 04 June 2022 - To: 11 June 2022
 
 JSON         2 hrs 29 mins   ███████████▒░░░░░░░░░░░░░   44.97 %
 YAML         1 hr 5 mins     █████░░░░░░░░░░░░░░░░░░░░   19.56 %

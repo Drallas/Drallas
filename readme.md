@@ -12,11 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 June 2022 - To: 17 June 2022
+From: 11 June 2022 - To: 18 June 2022
 
-Python     4 hrs 6 mins    ██████████████████████▒░░   89.95 %
-Markdown   24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-Bash       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Python     4 hrs 25 mins   ██████████████████████▓░░   90.61 %
+Markdown   24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+Bash       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
 ```
 
 <!--END_SECTION:waka-->

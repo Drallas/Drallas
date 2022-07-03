@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 June 2022 - To: 01 July 2022
+From: 25 June 2022 - To: 02 July 2022
 
 SQL          4 hrs 45 mins   █████████████▓░░░░░░░░░░░   54.82 %
 JSON         1 hr 19 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.24 %

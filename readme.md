@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 July 2022 - To: 08 July 2022
+From: 02 July 2022 - To: 09 July 2022
 
 Python     6 hrs 9 mins    █████████████████████▒░░░   84.97 %
 Bash       33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 %

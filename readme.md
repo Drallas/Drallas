@@ -12,10 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 July 2022 - To: 04 August 2022
+From: 30 July 2022 - To: 06 August 2022
 
-Markdown   1 hr 11 mins    █████████████████▒░░░░░░░   69.01 %
-JSON       31 mins         ███████▓░░░░░░░░░░░░░░░░░   30.94 %
+Markdown   2 hrs 4 mins    ██████████████████░░░░░░░   71.37 %
+JSON       49 mins         ███████░░░░░░░░░░░░░░░░░░   28.56 %
 Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```

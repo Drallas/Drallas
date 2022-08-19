@@ -12,7 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 11 August 2022 - To: 18 August 2022
+
+JSON       3 hrs 1 min     ███████████████░░░░░░░░░░   59.63 %
+YAML       1 hr 47 mins    █████████░░░░░░░░░░░░░░░░   35.35 %
+Markdown   15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
 ```
 
 <!--END_SECTION:waka-->

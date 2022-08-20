@@ -12,11 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 August 2022 - To: 18 August 2022
+From: 12 August 2022 - To: 19 August 2022
 
-JSON       3 hrs 1 min     ███████████████░░░░░░░░░░   59.63 %
-YAML       1 hr 47 mins    █████████░░░░░░░░░░░░░░░░   35.35 %
-Markdown   15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+YAML       1 hr 53 mins    ████████████▓░░░░░░░░░░░░   50.18 %
+JSON       1 hr 30 mins    ██████████░░░░░░░░░░░░░░░   40.19 %
+Bash       14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Markdown   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 ```
 
 <!--END_SECTION:waka-->

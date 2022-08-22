@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 August 2022 - To: 19 August 2022
+From: 14 August 2022 - To: 21 August 2022
 
 YAML       1 hr 53 mins    ████████████▓░░░░░░░░░░░░   50.18 %
 JSON       1 hr 30 mins    ██████████░░░░░░░░░░░░░░░   40.19 %

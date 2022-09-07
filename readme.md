@@ -12,10 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 August 2022 - To: 04 September 2022
-
-YAML   2 mins          ███████████████████████▓░   95.27 %
-Bash   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

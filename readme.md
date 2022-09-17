@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 September 2022 - To: 15 September 2022
+From: 09 September 2022 - To: 16 September 2022
 
 YAML    39 mins         █████████████████░░░░░░░░   67.49 %
 Bash    18 mins         ███████▓░░░░░░░░░░░░░░░░░   31.09 %

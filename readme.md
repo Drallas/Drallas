@@ -12,11 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 September 2022 - To: 16 September 2022
+From: 10 September 2022 - To: 17 September 2022
 
-YAML    39 mins         █████████████████░░░░░░░░   67.49 %
-Bash    18 mins         ███████▓░░░░░░░░░░░░░░░░░   31.09 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+YAML       4 hrs 23 mins   ████████████████████░░░░░   80.48 %
+Bash       32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+JSON       19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+Markdown   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->

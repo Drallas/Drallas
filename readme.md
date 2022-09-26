@@ -12,12 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 September 2022 - To: 24 September 2022
+From: 18 September 2022 - To: 25 September 2022
 
-YAML       53 mins         ██████████████▓░░░░░░░░░░   58.57 %
-Markdown   23 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.82 %
-Git        12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+YAML   44 mins         ███████████████████▒░░░░░   77.33 %
+Git    12 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.86 %
+Lua    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->

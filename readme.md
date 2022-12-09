@@ -12,14 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 November 2022 - To: 07 December 2022
+From: 01 December 2022 - To: 08 December 2022
 
-Python       3 hrs 10 mins   ██████████████████▓░░░░░░   74.62 %
-JSON         18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
-Lua          17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-Text         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-Bash         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Python   1 hr 15 mins    █████████████████████▓░░░   87.29 %
+Text     11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
 ```
 
 <!--END_SECTION:waka-->

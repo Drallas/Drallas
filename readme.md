@@ -12,9 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 December 2022 - To: 19 December 2022
+From: 13 December 2022 - To: 20 December 2022
 
-Other    12 mins         ███████████████▓░░░░░░░░░   62.66 %
+CSS      2 mins          ████████████████▓░░░░░░░░   66.24 %
+HTML     0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
+Python   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
 ```
 
 <!--END_SECTION:waka-->

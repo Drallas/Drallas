@@ -12,10 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 January 2023 - To: 18 January 2023
+From: 12 January 2023 - To: 19 January 2023
 
-Bash         6 hrs 50 mins   ███████░░░░░░░░░░░░░░░░░░   28.09 %
-Other        4 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   19.67 %
+Bash         6 hrs 40 mins   ████████░░░░░░░░░░░░░░░░░   31.47 %
+Other        4 hrs 47 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.54 %
 ```
 
 <!--END_SECTION:waka-->

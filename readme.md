@@ -12,10 +12,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 January 2023 - To: 21 January 2023
+From: 15 January 2023 - To: 22 January 2023
 
-Bash         4 hrs 57 mins   ████████░░░░░░░░░░░░░░░░░   31.84 %
-Other        3 hrs 19 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.38 %
+PHP          4 hrs 22 mins   ███████▓░░░░░░░░░░░░░░░░░   30.00 %
+Bash         2 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
+YAML         1 hr 17 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
+Text         1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+Markdown     1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+Other        1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
 ```
 
 <!--END_SECTION:waka-->

@@ -2,10 +2,10 @@
 <!-- print(("dralla"[::-1]+"s").capitalize()) -->
 
 ---
-👨🏻‍💻 **Busy With**
+<!-- 👨🏻‍💻 **Busy With**
 * Learning new Skills.
 * Building small Projects.
-* Being helpful.
+* Being helpful. -->
 
 ---
 📊 **Coding Stats**

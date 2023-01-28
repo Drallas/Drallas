@@ -12,12 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 January 2023 - To: 26 January 2023
+From: 20 January 2023 - To: 27 January 2023
 
-PHP          8 hrs 43 mins   ██████████▒░░░░░░░░░░░░░░   41.47 %
-Text         1 hr 57 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
-Bash         1 hr 57 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
-Other        1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+PHP          9 hrs 37 mins   ███████████▒░░░░░░░░░░░░░   45.00 %
+Text         1 hr 58 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+Bash         1 hr 57 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+Other        1 hr 52 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
 ```
 
 <!--END_SECTION:waka-->

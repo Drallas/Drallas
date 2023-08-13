@@ -12,9 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2023 - To: 11 August 2023
+From: 05 August 2023 - To: 12 August 2023
 
-YAML    7 hrs           █████████████████████████   99.99 %
+YAML    6 hrs 57 mins   █████████████████████████   99.99 %
 Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```

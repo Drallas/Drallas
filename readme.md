@@ -12,11 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2023 - To: 26 August 2023
+From: 20 August 2023 - To: 27 August 2023
 
-Bash    1 hr 2 mins     █████████████████▒░░░░░░░   68.67 %
-YAML    21 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.18 %
-Ezhil   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+Bash   1 hr 2 mins     ████████████████████▒░░░░   81.94 %
+YAML   13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.06 %
 ```
 
 <!--END_SECTION:waka-->

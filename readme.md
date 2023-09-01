@@ -12,9 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2023 - To: 30 August 2023
+From: 24 August 2023 - To: 31 August 2023
 
-Bash   1 hr 1 min      █████████████████████████   100.00 %
+YAML   2 hrs 25 mins   ██████████████████████░░░   88.59 %
+Bash   18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
 ```
 
 <!--END_SECTION:waka-->

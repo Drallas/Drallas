@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2023 - To: 07 September 2023
+From: 01 September 2023 - To: 08 September 2023
 
-Bash           47 mins         ███████████▓░░░░░░░░░░░░░   46.17 %
-YAML           38 mins         █████████▒░░░░░░░░░░░░░░░   37.70 %
-Ezhil          6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-ActionScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-Assembly       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Bash           38 mins         ██████████▓░░░░░░░░░░░░░░   42.52 %
+YAML           37 mins         ██████████▒░░░░░░░░░░░░░░   41.74 %
+Ezhil          6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+ActionScript   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Objective-C    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
 ```
 
 <!--END_SECTION:waka-->

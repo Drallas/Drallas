@@ -12,11 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2023 - To: 12 September 2023
+From: 06 September 2023 - To: 13 September 2023
 
-Bash       22 mins         █████████████████▒░░░░░░░   69.79 %
-YAML       9 mins          ███████▓░░░░░░░░░░░░░░░░░   30.17 %
-Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Bash   55 mins         █████████████████████░░░░   84.12 %
+YAML   10 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.88 %
 ```
 
 <!--END_SECTION:waka-->

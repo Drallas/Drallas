@@ -12,9 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 September 2023 - To: 28 September 2023
+From: 22 September 2023 - To: 29 September 2023
 
-YAML   3 mins          █████████████████████████   100.00 %
+Markdown   12 mins         ██████████░░░░░░░░░░░░░░░   40.43 %
+YAML       11 mins         █████████▓░░░░░░░░░░░░░░░   38.91 %
+Bash       6 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
 ```
 
 <!--END_SECTION:waka-->

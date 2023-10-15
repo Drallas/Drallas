@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2023 - To: 13 October 2023
+From: 07 October 2023 - To: 14 October 2023
 
-YAML             7 hrs 44 mins   ███████████░░░░░░░░░░░░░░   43.93 %
-Perl             4 hrs 52 mins   ███████░░░░░░░░░░░░░░░░░░   27.62 %
-Bash             2 hrs 56 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.71 %
-Ezhil            47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-Markdown         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+YAML             5 hrs 33 mins   █████████▒░░░░░░░░░░░░░░░   36.88 %
+Perl             4 hrs 52 mins   ████████░░░░░░░░░░░░░░░░░   32.35 %
+Bash             2 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.28 %
+Ezhil            47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Markdown         36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
 ```
 
 <!--END_SECTION:waka-->

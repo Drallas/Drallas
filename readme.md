@@ -12,10 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2023 - To: 23 October 2023
+From: 18 October 2023 - To: 25 October 2023
 
-YAML   3 hrs 47 mins   ████████████████████████░   96.24 %
-Bash   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+YAML         5 hrs 29 mins   █████████████████████▓░░░   86.59 %
+Bash         32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
+Python       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Other        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->

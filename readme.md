@@ -12,9 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2024 - To: 10 June 2024
+From: 04 June 2024 - To: 11 June 2024
 
-No activity tracked
+Bash         29 mins         ████████░░░░░░░░░░░░░░░░░   31.34 %
+INI          27 mins         ███████▓░░░░░░░░░░░░░░░░░   30.09 %
+YAML         23 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.37 %
+Other        9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
+SSH Config   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
 <!--END_SECTION:waka-->

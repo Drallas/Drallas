@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2024 - To: 12 June 2024
+From: 06 June 2024 - To: 13 June 2024
 
 Bash         29 mins         ████████░░░░░░░░░░░░░░░░░   31.34 %
 INI          27 mins         ███████▓░░░░░░░░░░░░░░░░░   30.09 %

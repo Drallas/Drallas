@@ -12,13 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 June 2024 - To: 04 July 2024
+From: 28 June 2024 - To: 05 July 2024
 
-YAML         4 hrs 19 mins   ███████████████▓░░░░░░░░░   62.78 %
-Bash         1 hr 28 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.40 %
-Markdown     40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-SSH Config   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-HTML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

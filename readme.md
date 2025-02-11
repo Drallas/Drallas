@@ -12,9 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2025 - To: 09 February 2025
+From: 03 February 2025 - To: 10 February 2025
 
-CSV   20 mins         █████████████████████████   100.00 %
+YAML         1 hr 14 mins    ██████████████████░░░░░░░   72.64 %
+Bash         25 mins         ██████░░░░░░░░░░░░░░░░░░░   24.63 %
+SSH Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->

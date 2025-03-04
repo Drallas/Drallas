@@ -12,13 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 February 2025 - To: 02 March 2025
+From: 24 February 2025 - To: 03 March 2025
 
-YAML         2 hrs 36 mins   ██████████░░░░░░░░░░░░░░░   39.95 %
-JSON         1 hr 51 mins    ███████░░░░░░░░░░░░░░░░░░   28.58 %
-Markdown     53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
-Bash         49 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
-Git Config   17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
+YAML   8 mins          ███████████████████████▒░   93.89 %
+Bash   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
 ```
 
 <!--END_SECTION:waka-->

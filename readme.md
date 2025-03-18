@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2025 - To: 16 March 2025
+From: 10 March 2025 - To: 17 March 2025
 
-YAML         5 hrs 52 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.06 %
-Bash         5 hrs 24 mins   ██████░░░░░░░░░░░░░░░░░░░   24.00 %
-Markdown     2 hrs 39 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.81 %
-Other        2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-INI          2 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
+Bash         5 hrs 34 mins   ███████▓░░░░░░░░░░░░░░░░░   30.68 %
+YAML         2 hrs 52 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
+Other        2 hrs 11 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
+Makefile     2 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+INI          2 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
 ```
 
 <!--END_SECTION:waka-->

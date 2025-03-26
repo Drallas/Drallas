@@ -12,13 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2025 - To: 24 March 2025
+From: 18 March 2025 - To: 25 March 2025
 
-Terraform   49 mins         ████████████▓░░░░░░░░░░░░   50.65 %
-Makefile    28 mins         ███████▒░░░░░░░░░░░░░░░░░   29.51 %
-YAML        18 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.82 %
-Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-Markdown    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

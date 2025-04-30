@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 April 2025 - To: 28 April 2025
+From: 22 April 2025 - To: 29 April 2025
 
-YAML         35 hrs 20 mins  █████████████████████▒░░░   84.85 %
-Makefile     2 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
-Markdown     1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Jinja2       1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-INI          26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+YAML         30 hrs 20 mins  ████████████████████▓░░░░   82.71 %
+Makefile     2 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+Jinja2       1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Markdown     59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+Config       24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->

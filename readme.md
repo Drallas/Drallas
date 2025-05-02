@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 April 2025 - To: 30 April 2025
+From: 24 April 2025 - To: 01 May 2025
 
-YAML         32 hrs 54 mins  ████████████████████▓░░░░   82.11 %
-Makefile     2 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+YAML         33 hrs 35 mins  █████████████████████░░░░   83.92 %
+Makefile     1 hr 49 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Markdown     1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 Jinja2       1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-Markdown     1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-Text         1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Text         59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
 
 <!--END_SECTION:waka-->

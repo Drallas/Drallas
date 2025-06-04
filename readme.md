@@ -12,13 +12,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2025 - To: 02 June 2025
+From: 27 May 2025 - To: 03 June 2025
 
-YAML         3 hrs 54 mins   ████████████████████████▒   97.50 %
-Makefile     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Bash         1 min           ███████████████▒░░░░░░░░░   61.61 %
+SSH Config   0 secs          ██████▒░░░░░░░░░░░░░░░░░░   25.46 %
+Markdown     0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
 ```
 
 <!--END_SECTION:waka-->

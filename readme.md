@@ -12,11 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 May 2025 - To: 03 June 2025
+From: 28 May 2025 - To: 04 June 2025
 
-Bash         1 min           ███████████████▒░░░░░░░░░   61.61 %
-SSH Config   0 secs          ██████▒░░░░░░░░░░░░░░░░░░   25.46 %
-Markdown     0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 %
+YAML   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

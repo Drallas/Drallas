@@ -12,9 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2025 - To: 16 September 2025
+From: 10 September 2025 - To: 17 September 2025
 
-No activity tracked
+YAML       3 mins          ███████████████▒░░░░░░░░░   61.64 %
+Bash       2 mins          ████████▓░░░░░░░░░░░░░░░░   34.78 %
+Other      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+INI        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->

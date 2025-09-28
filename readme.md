@@ -12,11 +12,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2025 - To: 25 September 2025
+From: 20 September 2025 - To: 27 September 2025
 
-YAML         1 hr 14 mins    ███████████████████▒░░░░░   77.13 %
-SSH Config   22 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.78 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+YAML         4 hrs 21 mins   ████████████████████▓░░░░   83.12 %
+Bash         26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+SSH Config   22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+Text         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
